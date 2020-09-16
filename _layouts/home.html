@@ -11,10 +11,12 @@ layout: default
             <li><a href="{{ post.url | relative_url }}">{{post.title}}</a></li>
         {% endfor %}
     </ul>
-    <img src="{{ 'https://source.unsplash.com/320x240/' | relative_url }}">
 </nav>
 <main>
-    <section>
+    <section id="imagem">
+        <img src="{{ 'https://source.unsplash.com/320x240/' | relative_url }}">
+    </section>
+    <section id="pokemon">
         <h3>Tipos de pokemon</h3>
         <img src="{{ '/assets/images/typematchup.png' | relative_url }}">
     </section>
