@@ -20,6 +20,15 @@ body {
     color: var(--primary-color);
 }
 
+header#titulo{
+    background: var(--primary-background);
+    color: var(--primary-color);
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 header#post {
     background: var(--primary-background);
     color: var(--primary-color);
