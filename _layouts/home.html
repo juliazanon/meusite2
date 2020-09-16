@@ -1,16 +1,21 @@
 --- 
 layout: default
 ---
-<ul>
-<header>
-    {% for post in site.posts %}
-    <li><a href="{{ post.url | relative_url }}">{{post.title}}</a></li>
-    {% endfor %}
-</header>
-<img src="{{ 'https://source.unsplash.com/320x240/' | relative_url }}">
-<section>
-    <h3>Tipos de pokemon</h3>
-    <img src="{{ '/assets/images/typematchup.png' | relative_url }}">
-</section>
-</ul>
 
+<header id="titulo">
+    <h1>Blog da Julia</h1>
+</header>
+<nav id="nav-principal">
+    <ul>
+        {% for post in site.posts %}
+            <li><a href="{{ post.url | relative_url }}">{{post.title}}</a></li>
+        {% endfor %}
+        <img src="{{ 'https://source.unsplash.com/320x240/' | relative_url }}">
+    </ul>
+</nav>
+<main>
+    <section>
+        <h3>Tipos de pokemon</h3>
+        <img src="{{ '/assets/images/typematchup.png' | relative_url }}">
+    </section>
+</main>

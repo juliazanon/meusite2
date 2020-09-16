@@ -27,7 +27,23 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    grid-area: header;
+}
+
+nav#nav-principal {
+    background: var(--secondary-background);
+    color: var(--primary-color);
+    display: flex;
+    justify-content: center;
+}
+
+#nav-principal ul {
+    margin: 0;
+    padding: 0;
+}
+
+#nav-principal li {
+    display: inline-block;
+    padding: 10px;
 }
 
 section {
@@ -39,9 +55,5 @@ section {
 }
 
 section p {
-    padding: 20px;
-}
-
-section img {
     padding: 20px;
 }
