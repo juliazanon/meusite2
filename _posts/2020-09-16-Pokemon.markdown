@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: "Tipos de Pokemon"
+date: 2020-09-14 07:14:49 -0500
+categories: jekyll update
+---
+# Aqui tem as fraquezas e os super efetivos de cada tipo de pokemon
+![Pokemon type matchups](https://i.imgur.com/ZybcrjZ.png)
+
+# Mas os tipos também podem resistir outros, então a tabela fica mais complexa
+![Pokemon full type matchups](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f2ebc1c6-48a9-4c82-8785-f618240c1bd7/dcetdej-8454323b-33a4-4c56-9d9f-9553a667cbad.png/v1/fill/w_1280,h_843,strp/pokemon_type_chart__added_light_type__by_jyminaurus_dcetdej-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZjJlYmMxYzYtNDhhOS00YzgyLTg3ODUtZjYxODI0MGMxYmQ3XC9kY2V0ZGVqLTg0NTQzMjNiLTMzYTQtNGM1Ni05ZDlmLTk1NTNhNjY3Y2JhZC5wbmciLCJoZWlnaHQiOiI8PTg0MyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cL2YyZWJjMWM2LTQ4YTktNGM4Mi04Nzg1LWY2MTgyNDBjMWJkN1wvanltaW5hdXJ1cy00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.OoNFy2n43vQadsVCJI2fw6J49r71DA7WX_Nv5tP_jFs)
