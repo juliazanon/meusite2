@@ -46,6 +46,15 @@ nav#nav-principal {
     padding: 10px;
 }
 
+section{
+    border: 15px solid var(--secondary-background);
+    height: 80%;
+    margin: 50px 30px;
+    background-color: var(--tertiary-background);
+    color: var(--secondary-color);
+    padding: 20px;
+}
+
 section#imagem {
     background-color: var(--primary-background);
     margin: 20px;
@@ -70,6 +79,14 @@ section#instrucoes {
     padding: 20px;
 }
 
+footer {
+    background: var(--secondary-background);
+    color: var(--primary-color);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 footer#rodape_cubo {
     background: var(--secondary-background);
