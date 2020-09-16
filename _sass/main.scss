@@ -46,7 +46,7 @@ nav#nav-principal {
     padding: 10px;
 }
 
-section {
+section#pokemon {
     border: 15px solid var(--secondary-background);
     height: 80%;
     margin: 50px 30px;
@@ -54,10 +54,12 @@ section {
     color: var(--secondary-color);
 }
 
-section h3 {
+#pokemon h3 {
     padding: 20px;
+    margin: 20px;
 }
 
-section img {
+#pokemon img {
     padding: 20px;
+    margin: 20px;
 }
