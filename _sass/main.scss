@@ -59,8 +59,9 @@ section#post{
 section#imagem {
     background-color: var(--primary-background);
     color: var(--primary-color);
-    margin: 20px;
-    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer#post {
