@@ -3,10 +3,14 @@ layout: default
 ---
 <ul>
 <header>
-    <img src="{{ '/assets/images/typematchup.png' | relative_url }}">
-	<img src="{{ 'https://source.unsplash.com/320x240/' | relative_url }}">
+    <img src="{{ 'https://source.unsplash.com/320x240/' | relative_url }}">
 </header>
 {% for post in site.posts %}
     <li><a href="{{ post.url | relative_url }}">{{post.title}}</a></li>
 {% endfor %}
 </ul>
+<section class="pokemon">
+    <h3>Tipos de pokemon</h3>
+    <img src="{{ '/assets/images/typematchup.png' | relative_url }}">
+</section>
+
