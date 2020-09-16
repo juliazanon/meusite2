@@ -21,7 +21,7 @@ body {
 }
 
 header {
-    background: var(--secondary-background);
+    background: var(--primary-background);
     color: var(--primary-color);
     height: 80px;
     display: flex;
@@ -36,4 +36,12 @@ section {
     margin: 50px 30px;
     background-color: var(--tertiary-background);
     color: var(--secondary-color);
+}
+
+section p {
+    padding: 20px;
+}
+
+section img {
+    padding: 20px;
 }
