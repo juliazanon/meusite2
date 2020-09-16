@@ -20,7 +20,7 @@ body {
     color: var(--primary-color);
 }
 
-header {
+header#post {
     background: var(--primary-background);
     color: var(--primary-color);
     height: 80px;
@@ -46,7 +46,7 @@ nav#nav-principal {
     padding: 10px;
 }
 
-section{
+section#post{
     border: 15px solid var(--secondary-background);
     height: 80%;
     margin: 50px 30px;
@@ -62,7 +62,7 @@ section#imagem {
     padding: 20px;
 }
 
-footer {
+footer#post {
     background: var(--secondary-background);
     color: var(--primary-color);
     height: 60px;
