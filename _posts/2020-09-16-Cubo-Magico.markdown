@@ -37,7 +37,7 @@ categories: jekyll update
     Se não tiver face cheia, fazer em qualquer uma)  
 
 
-Para mais sequências, visite o site do [Renan Cerpe](www.cubovelocidade.com.br)  
+Para mais sequências, visite o site do [Renan Cerpe](https://www.cubovelocidade.com.br)  
 
 
 ### Cubo mágico
